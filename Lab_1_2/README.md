@@ -1,3 +1,7 @@
 # **Lab 1 and 2**
 ## *Command Line*
-`$ hostname`
+ <html>
+      <head>
+          `$ hostname`
+      </head>
+    </html>
