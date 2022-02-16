@@ -1,7 +1,8 @@
 # **Lab 1 and 2**
 ## *Command Line*
  
- `$ hostname`
+ ```ssh
+$ hostname
+```
    
-   ![hostname!](/Photos/hostname.png "Hostname")
-
+![This is an image](https://github.com/rshrest2/CPE322/blob/main/Lab_1_2/Photos/hostname.png)
