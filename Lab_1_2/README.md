@@ -2,6 +2,6 @@
 ## *Command Line*
  <html>
       <head>
-          `$ hostname`
+          $ hostname
       </head>
     </html>
