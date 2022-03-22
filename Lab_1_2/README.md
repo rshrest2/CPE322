@@ -74,3 +74,44 @@ $ ping localhost
 $ netstat
 ```
 ![This is an image](https://github.com/rshrest2/CPE322/blob/main/Lab_1_2/Photos/netstat.png)
+
+
+## *Lab conducted on Raspberry Pi*
+
+```ssh
+$ hostname
+$ env
+$ ps
+$ pwd
+$ git clone https://github.com/...
+$ cd iot
+$ ls
+$ cd
+$df
+```
+![This is an image](https://github.com/rshrest2/CPE322/blob/main/Lab_1_2/Lab1%262/df.png)
+
+```ssh
+$ mkdir demo
+$ cd demo
+$ nano file
+$ cat file
+$ cp file file1
+$ mv file file2
+$ rm file2
+$ clear
+```
+![This is an image](https://github.com/rshrest2/CPE322/blob/main/Lab_1_2/Lab1%262/clear.png)
+
+```ssh
+$ man uname
+$ uname -a
+$ ifconfig
+$ ping localhost
+```
+![This is an image](https://github.com/rshrest2/CPE322/blob/main/Lab_1_2/Lab1%262/ping.png)
+
+```ssh
+$ netstat
+```
+![This is an image](https://github.com/rshrest2/CPE322/blob/main/Lab_1_2/Lab1%262/netstat.png)
