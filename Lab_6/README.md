@@ -22,7 +22,7 @@ $
 #### 6B: Install Pystache and run say_hello.py that uses the template in say_hello.mustache
 
 ```ssh
- sudo pip3 install pystache
+$ sudo pip3 install pystache
 $ cd ~/iot/lesson6
 $ cat say_hello.mustache
 $ cat say_hello.py
